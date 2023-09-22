@@ -2,7 +2,7 @@
 
 Submitted by: **Joel Lian**
 
-This web app: **This web app displays the group stage matches of the current champions league tournament**
+This web app: **displays the group stage matches of the current champions league tournament**
 
 Time spent: *8** hours spent in total
 
