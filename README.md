@@ -26,6 +26,11 @@ Here's a walkthrough of implemented required features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 #1. ![1](https://github.com/joellian/CommunityBoard/assets/65100772/fe6b2b3e-8dcd-4572-a28e-c0d4b0ef993f)
+#2. ![2](https://github.com/joellian/CommunityBoard/assets/65100772/a143d852-6bcd-44a0-a2f3-9eb8609c34b4)
+#3. ![3](https://github.com/joellian/CommunityBoard/assets/65100772/c6dd8246-d728-4a00-a6ed-d290c292ff29)
+#4. ![4](https://github.com/joellian/CommunityBoard/assets/65100772/555153f6-6344-46f4-8e3a-bd161070af1f)
+
+
 
 
 ## Notes
