@@ -1,0 +1,42 @@
+
+.match-card {
+    background-color: #5f6ce3;
+    border: 1px solid #2554df;
+    border-radius: 3px;
+    padding: 20px;
+    box-shadow: 0 2px 3px rgba(73, 93, 248, 0.765);
+    transition: box-shadow 0.3s ease; 
+    width: 300px;
+    height: 200px; 
+    
+  }
+  
+
+.match-card:hover {
+    filter: drop-shadow(0 0 1em);
+    transform: translateY(-2px); 
+  }
+.match-button {
+    background-color: #5635d8; 
+    color: #fff; 
+    border: none;
+    padding: 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100px;
+    margin: 0 auto;
+  }
+  
+.match-button:hover {
+  background-color: #604ddf; 
+}
+.match-button:active{
+    transform: scale(0.95);
+}
+
+
+
+
+
+
